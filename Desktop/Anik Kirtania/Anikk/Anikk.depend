@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1698143178 source:/home/anik/Desktop/Anik Kirtania/Anikk/main.c
+	<stdio.h>
+
+1698142479 source:/home/anik/Desktop/Anik Kirtania/Anikk/anik.c
+	<stdio.h>
+
+1698143022 source:/home/anik/Desktop/Anik Kirtania/Anikk/manik.c
+	<stdio.h>
+
