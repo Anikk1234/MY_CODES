@@ -29,7 +29,7 @@ int main()
     {
         printf("%ld\t",E[i]);
     }
-    printf("\nOdd elememt array is:");
+    printf("\nOdd elememt array is:\n");
     for(i=0; i<k; i++)
     {
         printf("%ld\t",O[i]);
